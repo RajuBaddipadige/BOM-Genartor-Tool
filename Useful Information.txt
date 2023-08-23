@@ -1,0 +1,19 @@
+Install Through Terminal or command prompt or power shell
+
+pip install openpyxl
+
+pip install openpyxl
+
+pip install pandas
+
+pip install pillow
+
+pyinstaller --onefile your_script_name.py
+
+pip install pywin32-ctypes
+
+ 
+
+https://www.geeksforgeeks.org/convert-python-script-to-exe-file/
+
+pip install pandas-ods-reader 
